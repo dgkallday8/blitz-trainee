@@ -4,7 +4,8 @@ export default function Content() {
     return (
         <div className='content'>
             <div className='image'>
-                <img src="../../photo.png" alt="myphoto"/>
+                <img className='firstP' src="../../photo.png" alt="myphoto"/>
+                <img className='secondP' src="../../photo_mini.png" alt="myphoto-mini"/>
             </div>
             <div className='me'>
                 <h2 className="title">About Me</h2>

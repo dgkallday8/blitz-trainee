@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "react-layout"
+    "default": "blitz-trainee",
+    "blitz": "blitz-d9522",
+    "blitz-trainee": "blitz-trainee"
   }
 }

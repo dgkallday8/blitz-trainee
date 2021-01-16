@@ -8,7 +8,7 @@ export default function AboutMe() {
         <section className='about'>
             <Menu />
             <Content />
-            <Scroll />
+            <Scroll text="keep scrolling, there is still more to come."/>
         </section>
     )
 }
